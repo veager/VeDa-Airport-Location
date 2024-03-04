@@ -1,0 +1,266 @@
+country_code,region_name,iata,icao,airport,lat,lon
+CN,Anhui,AQG,ZSAQ,Anqing Tianzhushan Airport,30.5822,117.05
+CN,Anhui,BFU,ZSBB,Bengbu Airport,32.8477,117.32
+CN,Anhui,FUG,ZSFY,Fuyang Xiguan Airport,32.8822,115.734
+CN,Anhui,HFE,ZSOF,Hefei Xinqiao International Airport,31.78,117.298
+CN,Anhui,JUH,,Chizhou Jiuhuashan Airport,30.7403,117.686
+CN,Anhui,TXN,ZSTX,Huangshan Tunxi International Airport,29.7333,118.256
+CN,Anhui,WHA,ZSWA,Wuhu Airport,31.3906,118.409
+CN,Beijing,PEK,ZBAA,Beijing Capital International Airport,40.0725,116.598
+CN,Beijing,PKX,ZBAD,Beijing Daxing International Airport,39.509167,116.410556
+CN,Chongqing,CKG,ZUCK,Chongqing Jiangbei International Airport,29.7192,106.642
+CN,Chongqing,DZU,ZUDZ,Dazu Air Base,29.6362,105.774
+CN,Chongqing,JIQ,ZUQJ,Qianjiang Wulingshan Airport,29.5133,108.831
+CN,Chongqing,LIA,ZULP,Liangping Airport,30.6794,107.786
+CN,Chongqing,WXN,ZUWX,Wanzhou Wuqiao Airport,30.8017,108.433
+CN,Chongqing Shi,CQW,ZUWL,Chongqing Xiannyushan Airport,29.4658,107.692
+CN,Chongqing Shi,WSK,ZUWS,Chongqing Wushan Airport,31.064,109.706
+CN,Fujian,FOC,ZSFZ,Fuzhou Changle International Airport,25.9351,119.663
+CN,Fujian,JJN,ZSQZ,Quanzhou Jinjiang International Airport,24.7964,118.59
+CN,Fujian,LCX,ZSLO,Longyan Guanzhishan Airport,25.6747,116.747
+CN,Fujian,SQJ,ZSSM,Sanming Shaxian Airport,26.4263,117.834
+CN,Fujian,WUS,ZSWY,Wuyishan Airport,27.7019,118.001
+CN,Fujian,XMN,ZSAM,Xiamen Gaoqi International Airport,24.544,118.128
+CN,Gansu,DNH,ZLDH,Dunhuang Airport,40.1611,94.8092
+CN,Gansu,GXH,ZLXH,Gannan Xiahe Airport,34.8105,102.645
+CN,Gansu,IQN,ZLQY,Qingyang Airport,35.7997,107.603
+CN,Gansu,JGN,ZLJQ,Jiayuguan Airport,39.8569,98.3414
+CN,Gansu,JIC,ZLJC,Jinchang Jinchuan Airport,38.5422,102.348
+CN,Gansu,LHW,ZLLL,Lanzhou Zhongchuan International Airport,36.5152,103.62
+CN,Gansu,LNL,ZLLN,Longnan Chengzhou Airport,33.788,105.797
+CN,Gansu,THQ,ZLTS,Tianshui Maijishan Airport,34.5594,105.86
+CN,Gansu,YZY,ZLZY,Zhangye Ganzhou Airport,38.8019,100.675
+CN,Guangdong,CAN,ZGGG,Guangzhou Baiyun International Airport,23.3924,113.299
+CN,Guangdong,FUO,ZGFS,Foshan Shadi Airport,23.0833,113.07
+CN,Guangdong,HSC,,Shaoguan Guitou Airport,24.9786,113.421
+CN,Guangdong,HUZ,ZGHZ,Huizhou Pingtan Airport,23.05,114.6
+CN,Guangdong,MXZ,ZGMX,Meixian Airport,24.35,116.133
+CN,Guangdong,SWA,ZGOW,Jieyang Chaoshan International Airport,23.552,116.503
+CN,Guangdong,SZX,ZGSZ,Shenzhen Bao'an International Airport,22.6393,113.811
+CN,Guangdong,XIN,ZGXN,Xingning Air Base,24.1492,115.758
+CN,Guangdong,ZHA,ZGZJ,Zhanjiang Airport,21.2144,110.358
+CN,Guangdong,ZUH,ZGSD,Zhuhai Jinwan Airport (Zhuhai Sanzao Airport),22.0064,113.376
+CN,Guangxi,AEB,ZGBS,Baise Bama Airport,23.7206,106.96
+CN,Guangxi,BHY,ZGBH,Beihai Fucheng Airport,21.5394,109.294
+CN,Guangxi,HCJ,ZGHC,Hechi Jinchengjiang Airport,24.805,107.7
+CN,Guangxi,KWL,ZGKL,Guilin Liangjiang International Airport,25.2181,110.039
+CN,Guangxi,LZH,ZGZH,Liuzhou Bailian Airport,24.2075,109.391
+CN,Guangxi,NNG,ZGNN,Nanning Wuxu International Airport,22.6083,108.172
+CN,Guangxi,WUZ,ZGWZ,Wuzhou Xijiang Airport,23.4567,111.248
+CN,Guizhou,ACX,ZUYI,Xingyi Wanfenglin Airport,25.0864,104.959
+CN,Guizhou,AVA,ZUAS,Anshun Huangguoshu Airport,26.2606,105.873
+CN,Guizhou,BFJ,ZUBJ,Bijie Feixiong Airport,27.2671,105.472
+CN,Guizhou,HZH,ZUNP,Liping Airport,26.3222,109.15
+CN,Guizhou,KJH,,Kaili Huangping Airport,26.972,107.988
+CN,Guizhou,KWE,ZUGY,Guiyang Longdongbao International Airport,26.5385,106.801
+CN,Guizhou,LLB,ZULB,Libo Airport (Qiannan Airport),25.4525,107.962
+CN,Guizhou,LPF,ZUPS,Liupanshui Yuezhao Airport,26.6094,104.979
+CN,Guizhou,TEN,ZUTR,Tongren Fenghuang Airport,27.8833,109.309
+CN,Guizhou,WMT,ZUMT,Zunyi Maotai Airport,27.8164,106.333
+CN,Guizhou,ZYI,ZUZY,Zunyi Xinzhou Airport,27.5895,107.001
+CN,Hainan,BAR,,Qionghai Bo'ao Airport,19.1382,110.455
+CN,Hainan,HAK,ZJHK,Haikou Meilan International Airport,19.9349,110.459
+CN,Hainan,SYX,ZJSY,Sanya Phoenix International Airport,18.3029,109.412
+CN,Hebei,BPE,ZBDH,Qinhuangdao Beidaihe Airport,39.6664,119.059
+CN,Hebei,CDE,ZBCD,Chengde Puning Airport,41.1225,118.074
+CN,Hebei,HDG,ZBHD,Handan Airport,36.5258,114.426
+CN,Hebei,SJW,ZBSJ,Shijiazhuang Zhengding International Airport,38.2807,114.697
+CN,Hebei,TVS,ZBTS,Tangshan Sannuhe Airport,39.7178,118.003
+CN,Hebei,XNT,ZBXT,Xingtai Dalian Airport,36.8831,114.429
+CN,Hebei,ZQZ,ZBZJ,Zhangjiakou Ningyuan Airport,40.7386,114.93
+CN,Heilongjiang,DQA,ZYDQ,Daqing Sartu Airport,46.7464,125.141
+CN,Heilongjiang,DTU,,Wudalianchi Airport,48.445,126.133
+CN,Heilongjiang,FYJ,ZYFY,Fuyuan Dongji Airport,48.1995,134.366
+CN,Heilongjiang,HEK,ZYHE,Heihe Airport,50.1716,127.309
+CN,Heilongjiang,HRB,ZYHB,Harbin Taiping International Airport,45.6234,126.25
+CN,Heilongjiang,JGD,ZYJD,Jiagedaqi Airport,50.3714,124.118
+CN,Heilongjiang,JMU,ZYJM,Jiamusi Dongjiao Airport,46.8434,130.465
+CN,Heilongjiang,JSJ,ZYJS,Jiansanjiang Airport,47.11,132.66
+CN,Heilongjiang,JXA,ZYJX,Jixi Xingkaihu Airport,45.293,131.193
+CN,Heilongjiang,LDS,ZYLD,Yichun Lindu Airport,47.7521,129.019
+CN,Heilongjiang,MDG,ZYMD,Mudanjiang Hailang Airport,44.5241,129.569
+CN,Heilongjiang,NDG,ZYQQ,Qiqihar Sanjiazi Airport,47.2396,123.918
+CN,Heilongjiang,OHE,ZYMH,Mohe Gulian Airport,52.9128,122.43
+CN,Heilongjiang,YLN,ZYYL,Yilan Airport,46.317,129.567
+CN,Henan,AYN,ZHAY,Anyang Airport,36.1339,114.344
+CN,Henan,CGO,ZHCC,Zhengzhou Xinzheng International Airport,34.5197,113.841
+CN,Henan,HSJ,,Zhengzhou Shangjie Airport,34.8422,113.274
+CN,Henan,LYA,ZHLY,Luoyang Beijiao Airport,34.7411,112.388
+CN,Henan,NNY,ZHNY,Nanyang Jiangying Airport,32.9808,112.615
+CN,Henan Sheng,XAI,ZHXY,Xinyang Minggang Airport,32.5414,114.078
+CN,Hubei,ENH,ZHES,Enshi Xujiaping Airport,30.3203,109.485
+CN,Hubei,HPG,ZHSN,Shennongjia Hongping Airport,31.626,110.34
+CN,Hubei,LHK,ZHGH,Laohekou Airport,32.3894,111.695
+CN,Hubei,SHS,ZHSS,Shashi Airport,30.3243,112.28
+CN,Hubei,WDS,ZHSY,Shiyan Wudangshan Airport,32.5917,110.908
+CN,Hubei,WUH,ZHHH,Wuhan Tianhe International Airport,30.7838,114.208
+CN,Hubei,XFN,ZHXF,Xiangyang Liuji Airport,32.1506,112.291
+CN,Hubei,YIH,ZHYC,Yichang Sanxia Airport,30.5565,111.48
+CN,Hubei Sheng,EHU,ZHEC,Ezhou Huahu Airport,30.3429,115.03
+CN,Hunan,CGD,ZGCD,Changde Taohuayuan Airport,28.9189,111.64
+CN,Hunan,CSX,ZGHA,Changsha Huanghua International Airport,28.1892,113.22
+CN,Hunan,DYG,ZGDY,Zhangjiajie Hehua Airport,29.1028,110.443
+CN,Hunan,HJJ,ZGCJ,Huaihua Zhijiang Airport,27.4411,109.7
+CN,Hunan,HNY,ZGHY,Hengyang Nanyue Airport,26.9053,112.628
+CN,Hunan,LLF,ZGLG,Yongzhou Lingling Airport,26.3387,111.61
+CN,Hunan,WGN,ZGSY,Shaoyang Wugang Airport,26.802,110.642
+CN,Hunan Sheng,HCZ,ZGCZ,Chenzhou Beihu Airport,25.7506,112.846
+CN,Hunan Sheng,YYA,ZGYY,Yueyang Sanhe Airport,29.314,113.278
+CN,Jiangsu,CZX,ZSCG,Changzhou Benniu Airport,31.9197,119.779
+CN,Jiangsu,HIA,ZSSH,Huai'an Lianshui Airport,33.7908,119.125
+CN,Jiangsu,LYG,ZSLG,Lianyungang Baitabu Airport,34.5717,118.874
+CN,Jiangsu,NKG,ZSNJ,Nanjing Lukou International Airport,31.742,118.862
+CN,Jiangsu,NTG,ZSNT,Nantong Xingdong Airport,32.0708,120.976
+CN,Jiangsu,RUG,ZSRG,Rugao Air Base,32.2579,120.502
+CN,Jiangsu,SZV,ZSSZ,Suzhou Guangfu Airport,31.2631,120.401
+CN,Jiangsu,WUX,ZSWX,Sunan Shuofang International Airport,31.4944,120.429
+CN,Jiangsu,XUZ,ZSXZ,Xuzhou Guanyin Airport,34.0591,117.555
+CN,Jiangsu,YNZ,ZSYN,Yancheng Nanyang International Airport,33.4258,120.203
+CN,Jiangsu,YTY,ZSYA,Yangzhou Taizhou Airport,32.5602,119.717
+CN,Jiangxi,JDZ,ZSJD,Jingdezhen Luojia Airport,29.3386,117.176
+CN,Jiangxi,JGS,ZSJA,Jinggangshan Airport,26.8569,114.737
+CN,Jiangxi,JIU,ZSJJ,Jiujiang Lushan Airport,29.4769,115.801
+CN,Jiangxi,KHN,ZSCN,Nanchang Changbei International Airport,28.865,115.9
+CN,Jiangxi,KOW,ZSGZ,Ganzhou Huangjin Airport,25.8533,114.779
+CN,Jiangxi,SQD,ZSSR,Shangrao Sanqingshan Airport,28.3797,117.964
+CN,Jiangxi,YIC,ZSYC,Yichun Mingyueshan Airport,27.8025,114.306
+CN,Jilin,CGQ,ZYCC,Changchun Longjia International Airport,43.9962,125.685
+CN,Jilin,DBC,ZYBA,Baicheng Chang'an Airport,45.5053,123.02
+CN,Jilin,JIL,ZYJL,Jilin Ertaizi Airport,44.0022,126.396
+CN,Jilin,NBS,ZYBS,Changbaishan Airport,42.0669,127.602
+CN,Jilin,TNH,ZYTN,Tonghua Sanyuanpu Airport,42.2539,125.703
+CN,Jilin,YNJ,ZYYJ,Yanji Chaoyangchuan Airport,42.8828,129.451
+CN,Jilin,YSQ,ZYSQ,Songyuan Chaganhu Airport,44.9381,124.55
+CN,Liaoning,AOG,ZYAS,Anshan Teng'ao Airport,41.1053,122.854
+CN,Liaoning,CHG,ZYCY,Chaoyang Airport,41.5381,120.435
+CN,Liaoning,CNI,ZYCH,Changhai Airport,39.2667,122.667
+CN,Liaoning,DDG,ZYDD,Dandong Langtou Airport,40.0247,124.286
+CN,Liaoning,DLC,ZYTL,Dalian Zhoushuizi International Airport,38.9657,121.539
+CN,Liaoning,JNZ,ZYJZ,Jinzhou Bay Airport,41.1014,121.062
+CN,Liaoning,SHE,ZYTX,Shenyang Taoxian International Airport,41.6398,123.483
+CN,Liaoning,XEN,ZYXC,Xingcheng Airport,40.5803,120.698
+CN,Liaoning,YKH,ZYYK,Yingkou Lanqi Airport,40.5425,122.359
+CN,Nei Mongol,AEQ,,Ar Horqin Airport,43.8704,120.16
+CN,Nei Mongol,AXF,,Alxa Left Banner Bayanhot Airport,38.7483,105.589
+CN,Nei Mongol,BAV,ZBOW,Baotou Airport,40.56,109.997
+CN,Nei Mongol,CIF,ZBCF,Chifeng Yulong Airport,42.235,118.908
+CN,Nei Mongol,DSN,ZBDS,Ordos Ejin Horo Airport,39.49,109.861
+CN,Nei Mongol,EJN,,Ejin Banner Taolai Airport,42.0155,101.001
+CN,Nei Mongol,ERL,ZBER,Erenhot Saiwusu International Airport,43.4225,112.097
+CN,Nei Mongol,HET,ZBHH,Hohhot Baita International Airport,40.8514,111.824
+CN,Nei Mongol,HLD,ZBLA,Hulunbuir Hailar Airport,49.205,119.825
+CN,Nei Mongol,HLH,ZBUL,Ulanhot Airport,46.1953,122.008
+CN,Nei Mongol,HUO,ZBHZ,Holingol Huolinhe Airport,45.4872,119.407
+CN,Nei Mongol,NZH,ZBMZ,Manzhouli Xijiao Airport,49.5667,117.33
+CN,Nei Mongol,NZL,,Zhalantun Chengjisihan Airport,47.8658,122.768
+CN,Nei Mongol,RHT,,Alxa Right Banner Badanjilin Airport,39.225,101.546
+CN,Nei Mongol,RLK,ZBYZ,Bayannur Tianjitai Airport,40.926,107.743
+CN,Nei Mongol,TGO,ZBTL,Tongliao Airport,43.5567,122.2
+CN,Nei Mongol,UCB,,Ulanqab Airport,41.1297,113.108
+CN,Nei Mongol,WUA,ZBUH,Wuhai Airport,39.7934,106.799
+CN,Nei Mongol,WZQ,,Urad Middle Banner Airport,41.4596,108.535
+CN,Nei Mongol,XIL,ZBXH,Xilinhot Airport,43.9156,115.964
+CN,Nei Mongol,YIE,ZBES,Arxan Yi'ershi Airport,47.3106,119.912
+CN,Ningxia,GYU,ZLGY,Guyuan Liupanshan Airport,36.0789,106.217
+CN,Ningxia,INC,ZLIC,Yinchuan Hedong International Airport,38.3228,106.393
+CN,Ningxia,ZHY,ZLZW,Zhongwei Shapotou Airport (Zhongwei Xiangshan Airport),37.5731,105.154
+CN,Qinghai,GMQ,ZLGL,Golog Maqin Airport,34.4181,100.301
+CN,Qinghai,GOQ,ZLGM,Golmud Airport,36.4006,94.7861
+CN,Qinghai,HTT,,Huatugou Airport,38.202,90.8415
+CN,Qinghai,HXD,ZLDL,Delingha Airport,37.1253,97.2687
+CN,Qinghai,XNN,ZLXN,Xining Caojiabao Airport,36.5275,102.043
+CN,Qinghai,YUS,ZLYS,Yushu Batang Airport,32.8364,97.0364
+CN,Qinghai Sheng,HBQ,ZLHB,Haibei Qilian Airport,38.012,100.644
+CN,Shaanxi,AKA,ZLAK,Ankang Wulipu Airport,32.7081,108.931
+CN,Shaanxi,CIH,ZBCZ,Changzhi Wangcun Airport,36.2475,113.126
+CN,Shaanxi,DAT,ZBDT,Datong Yungang Airport,40.0603,113.482
+CN,Shaanxi,ENY,ZLYA,Yan'an Ershilipu Airport,36.6369,109.554
+CN,Shaanxi,HZG,ZLHZ,Hanzhong Chenggu Airport,33.1341,107.206
+CN,Shaanxi,LFQ,,Linfen Qiaoli Airport,36.1326,111.641
+CN,Shaanxi,LLV,ZBLL,Luliang Airport,37.6833,111.143
+CN,Shaanxi,SIA,ZLSN,Xi'an Xiguan Airport,34.3767,109.12
+CN,Shaanxi,TYN,ZBYN,Taiyuan Wusu International Airport,37.7469,112.628
+CN,Shaanxi,UYN,ZLYL,Yulin Yuyang Airport,38.3597,109.591
+CN,Shaanxi,WUT,ZBXZ,Xinzhou Wutaishan Airport,38.5975,112.969
+CN,Shaanxi,XIY,ZLXY,Xi'an Xianyang International Airport,34.4471,108.752
+CN,Shandong,DOY,ZSDY,Dongying Shengli Airport,37.5086,118.788
+CN,Shandong,JNG,ZLJN,Jining Qufu Airport,35.2928,116.347
+CN,Shandong,LYI,ZSLY,Linyi Shubuling Airport,35.0461,118.412
+CN,Shandong,PNJ,,Penglai Shahekou Airport,42.4464,119.574
+CN,Shandong,RIZ,,Rizhao Shanzihe Airport,35.405,119.324
+CN,Shandong,TAO,ZSQD,Qingdao Liuting International Airport,36.2661,120.374
+CN,Shandong,TNA,ZSJN,Jinan Yaoqiang International Airport,36.8572,117.216
+CN,Shandong,WEF,ZSWF,Weifang Airport,36.6467,119.119
+CN,Shandong,WEH,ZSWH,Weihai Dashuibo Airport,37.1871,122.229
+CN,Shandong,YNT,ZSYT,Yantai Penglai International Airport,37.6572,120.987
+CN,Shandong Sheng,HZA,ZSHZ,Heze Mudan Airport,35.2133,115.737
+CN,Shanghai,PVG,ZSPD,Shanghai Pudong International Airport,31.1434,121.805
+CN,Shanghai,SHA,ZSSS,Shanghai Hongqiao International Airport,31.1979,121.336
+CN,Shanxi,YCU,ZBYC,Yuncheng Guangong Airport,35.1164,111.031
+CN,Sichuan,AHJ,ZUHY,Hongyuan Airport,32.5315,102.352
+CN,Sichuan,BZX,,Bazhong Enyang Airport,31.7384,106.645
+CN,Sichuan,CTU,ZUUU,Chengdu Shuangliu International Airport,30.5785,103.947
+CN,Sichuan,DAX,ZUDX,Dazhou Heshi Airport,31.1302,107.429
+CN,Sichuan,DCY,ZUDC,Daocheng Yading Airport,29.3231,100.053
+CN,Sichuan,GHN,ZUGH,Guanghan Airport,30.9485,104.33
+CN,Sichuan,GYS,ZUGU,Guangyuan Panlong Airport,32.3911,105.702
+CN,Sichuan,JZH,ZUJZ,Jiuzhai Huanglong Airport,32.8533,103.682
+CN,Sichuan,KGT,ZUKD,Kangding Airport,30.1575,101.735
+CN,Sichuan,LZO,ZULZ,Luzhou Yunlong Airport,29.03,105.47
+CN,Sichuan,MIG,ZUMY,Mianyang Nanjiao Airport,31.4281,104.741
+CN,Sichuan,NAO,ZUNC,Nanchong Gaoping Airport,30.7955,106.163
+CN,Sichuan,PZI,ZUZH,Panzhihua Bao'anying Airport,26.54,101.799
+CN,Sichuan,TFU,ZUTF,Chengdu Tianfu International Airport,30.319,104.445
+CN,Sichuan,XIC,ZUXC,Xichang Qingshan Airport,27.9891,102.184
+CN,Sichuan,YBP,ZUYB,Yibin Caiba Airport,28.8006,104.545
+CN,Sichuan Sheng,DZH,ZUDA,Dazhou Jinya Airport,31.04,107.44
+CN,Tianjin,TSN,ZBTJ,Tianjin Binhai International Airport,39.1244,117.346
+CN,Xinjiang,AAT,ZWAT,Altay Airport,47.7499,88.0858
+CN,Xinjiang,AKU,ZWAK,Aksu Airport,41.2625,80.2917
+CN,Xinjiang,BPL,ZWBL,Bole Alashankou Airport,44.895,82.3
+CN,Xinjiang,FYN,ZWFY,Fuyun Koktokay Airport,46.8042,89.512
+CN,Xinjiang,HMI,ZWHM,Hami Airport (Kumul Airport),42.8414,93.6692
+CN,Xinjiang,HTN,ZWTN,Hotan Airport,37.0385,79.8649
+CN,Xinjiang,IQM,ZWCM,Qiemo Airport,38.2336,85.4656
+CN,Xinjiang,KCA,ZWKC,Kuqa Qiuci Airport,41.6779,82.8729
+CN,Xinjiang,KHG,ZWSH,Kashgar Airport (Kashi Airport),39.5429,76.02
+CN,Xinjiang,KJI,ZWKN,Kanas Airport,48.2223,86.9959
+CN,Xinjiang,KRL,ZWKL,Korla Airport,41.6978,86.1289
+CN,Xinjiang,KRY,ZWKM,Karamay Airport,45.4665,84.9527
+CN,Xinjiang,NLT,ZWNL,Xinyuan Nalati Airport,43.4318,83.3786
+CN,Xinjiang,QSZ,,Shache Airport,38.2811,77.0752
+CN,Xinjiang,RQA,ZWRQ,Ruoqiang Loulan Airport,38.9747,88.0083
+CN,Xinjiang,SHF,ZWHZ,Shihezi Huayuan Airport,44.2421,85.8905
+CN,Xinjiang,SXJ,ZWSS,Shanshan Airport,42.9117,90.2475
+CN,Xinjiang,TCG,ZWTC,Tacheng Airport,46.6725,83.3408
+CN,Xinjiang,TLQ,ZWTL,Turpan Jiaohe Airport,43.0308,89.0987
+CN,Xinjiang,URC,ZWWW,Urumqi Diwopu International Airport,43.9071,87.4742
+CN,Xinjiang,YIN,ZWYN,Yining Airport,43.9558,81.3303
+CN,Xizang,BPX,ZUBD,Qamdo Bamda Airport,30.5536,97.1083
+CN,Xizang,LXA,ZULS,Lhasa Gonggar Airport,29.2978,90.9119
+CN,Xizang,LZY,ZUNZ,Nyingchi Mainling Airport,29.3033,94.3353
+CN,Xizang,NGQ,ZUAL,Ngari Gunsa Airport,32.1,80.0531
+CN,Xizang,RKZ,ZURK,Shigatse Peace Airport,29.3519,89.3114
+CN,Yunnan,BSD,ZPBS,Baoshan Yunduan Airport,25.0533,99.1683
+CN,Yunnan,CWJ,ZPCW,Cangyuan Washan Airport,23.2739,99.3736
+CN,Yunnan,DIG,ZPDQ,Diqing Shangri-La Airport,27.7936,99.6772
+CN,Yunnan,DLU,ZPDL,Dali Airport,25.6494,100.319
+CN,Yunnan,JHG,ZPJH,Xishuangbanna Gasa Airport,21.9739,100.76
+CN,Yunnan,JMJ,ZPJM,Lancang Jingmai Airport,22.4158,99.7864
+CN,Yunnan,KMG,ZPPP,Kunming Changshui International Airport,25.1019,102.929
+CN,Yunnan,LJG,ZPLJ,Lijiang Sanyi Airport,26.68,100.246
+CN,Yunnan,LNJ,ZPLC,Lincang Airport,23.7381,100.025
+CN,Yunnan,LUM,ZPMS,Dehong Mangshi Airport,24.4011,98.5317
+CN,Yunnan,NLH,,Ninglang Luguhu Airport,27.5403,100.759
+CN,Yunnan,SYM,ZPSM,Pu'er Simao Airport,22.7933,100.959
+CN,Yunnan,TCZ,ZUTC,Tengchong Tuofeng Airport,24.9381,98.4858
+CN,Yunnan,WNH,ZPWS,Wenshan Puzhehei Airport,23.5583,104.326
+CN,Yunnan,YUA,ZPYM,Yuanmou Air Base,25.7375,101.882
+CN,Yunnan,ZAT,ZPZT,Zhaotong Airport,27.3256,103.755
+CN,Zhejiang,HGH,ZSHC,Hangzhou Xiaoshan International Airport,30.2295,120.434
+CN,Zhejiang,HSN,ZSZS,Zhoushan Putuoshan Airport,29.9342,122.362
+CN,Zhejiang,HYN,ZSLQ,Taizhou Luqiao Airport,28.5622,121.429
+CN,Zhejiang,JUZ,ZSJU,Quzhou Airport,28.9658,118.899
+CN,Zhejiang,NGB,ZSNB,Ningbo Lishe International Airport,29.8267,121.462
+CN,Zhejiang,WNZ,ZSWZ,Wenzhou Longwan International Airport,27.9122,120.852
+CN,Zhejiang,YIW,ZSYW,Yiwu Airport,29.3447,120.032
