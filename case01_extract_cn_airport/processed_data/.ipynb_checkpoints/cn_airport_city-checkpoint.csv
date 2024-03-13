@@ -1,0 +1,262 @@
+country_code,region_name,iata,icao,airport,lat,lon,地名,区划码,地级,地级码,地级类,省级,省级码,省级类,NAME_1,TYPE_1
+CN,Anhui,AQG,ZSAQ,Anqing Tianzhushan Airport,30.5822,117.05,安庆市,340800,安庆市,340800,地级市,安徽省,340000,省,Anhui,Province
+CN,Anhui,BFU,ZSBB,Bengbu Airport,32.8477,117.32,蚌埠市,340300,蚌埠市,340300,地级市,安徽省,340000,省,Anhui,Province
+CN,Anhui,FUG,ZSFY,Fuyang Xiguan Airport,32.8822,115.734,阜阳市,341200,阜阳市,341200,地级市,安徽省,340000,省,Anhui,Province
+CN,Anhui,HFE,ZSOF,Hefei Xinqiao International Airport,31.78,117.298,合肥市,340100,合肥市,340100,地级市,安徽省,340000,省,Anhui,Province
+CN,Anhui,JUH,,Chizhou Jiuhuashan Airport,30.7403,117.686,池州市,341700,池州市,341700,地级市,安徽省,340000,省,Anhui,Province
+CN,Anhui,TXN,ZSTX,Huangshan Tunxi International Airport,29.7333,118.256,黄山市,341000,黄山市,341000,地级市,安徽省,340000,省,Anhui,Province
+CN,Anhui,WHA,ZSWA,Wuhu Airport,31.3906,118.409,芜湖市,340200,芜湖市,340200,地级市,安徽省,340000,省,Anhui,Province
+CN,Beijing,PEK,ZBAA,Beijing Capital International Airport,40.0725,116.598,北京市,110000,不统计,0,不统计,北京市,110000,直辖市,Beijing,Municipality
+CN,Beijing,PKX,ZBAD,Beijing Daxing International Airport,39.509167,116.410556,廊坊市,131000,廊坊市,131000,地级市,河北省,130000,省,Hebei,Province
+CN,Chongqing,CKG,ZUCK,Chongqing Jiangbei International Airport,29.7192,106.642,重庆市,500000,不统计,0,不统计,重庆市,500000,直辖市,Chongqing,Municipality
+CN,Chongqing,JIQ,ZUQJ,Qianjiang Wulingshan Airport,29.5133,108.831,重庆市,500000,不统计,0,不统计,重庆市,500000,直辖市,Chongqing,Municipality
+CN,Chongqing,LIA,ZULP,Liangping Airport,30.6794,107.786,重庆市,500000,不统计,0,不统计,重庆市,500000,直辖市,Chongqing,Municipality
+CN,Chongqing,WXN,ZUWX,Wanzhou Wuqiao Airport,30.8017,108.433,重庆市,500000,不统计,0,不统计,重庆市,500000,直辖市,Chongqing,Municipality
+CN,Chongqing,CQW,ZUWL,Chongqing Xiannyushan Airport,29.4658,107.692,重庆市,500000,不统计,0,不统计,重庆市,500000,直辖市,Chongqing,Municipality
+CN,Chongqing,WSK,ZUWS,Chongqing Wushan Airport,31.064,109.706,重庆市,500000,不统计,0,不统计,重庆市,500000,直辖市,Chongqing,Municipality
+CN,Fujian,FOC,ZSFZ,Fuzhou Changle International Airport,25.9351,119.663,福州市,350100,福州市,350100,地级市,福建省,350000,省,Fujian,Province
+CN,Fujian,JJN,ZSQZ,Quanzhou Jinjiang International Airport,24.7964,118.59,泉州市,350500,泉州市,350500,地级市,福建省,350000,省,Fujian,Province
+CN,Fujian,LCX,ZSLO,Longyan Guanzhishan Airport,25.6747,116.747,龙岩市,350800,龙岩市,350800,地级市,福建省,350000,省,Fujian,Province
+CN,Fujian,SQJ,ZSSM,Sanming Shaxian Airport,26.4263,117.834,三明市,350400,三明市,350400,地级市,福建省,350000,省,Fujian,Province
+CN,Fujian,WUS,ZSWY,Wuyishan Airport,27.7019,118.001,南平市,350700,南平市,350700,地级市,福建省,350000,省,Fujian,Province
+CN,Fujian,XMN,ZSAM,Xiamen Gaoqi International Airport,24.544,118.128,厦门市,350200,厦门市,350200,地级市,福建省,350000,省,Fujian,Province
+CN,Gansu,DNH,ZLDH,Dunhuang Airport,40.1611,94.8092,酒泉市,620900,酒泉市,620900,地级市,甘肃省,620000,省,Gansu,Province
+CN,Gansu,GXH,ZLXH,Gannan Xiahe Airport,34.8105,102.645,甘南藏族自治州,623000,甘南藏族自治州,623000,自治州,甘肃省,620000,省,Gansu,Province
+CN,Gansu,IQN,ZLQY,Qingyang Airport,35.7997,107.603,庆阳市,621000,庆阳市,621000,地级市,甘肃省,620000,省,Gansu,Province
+CN,Gansu,JGN,ZLJQ,Jiayuguan Airport,39.8569,98.3414,嘉峪关市,620200,嘉峪关市,620200,地级市,甘肃省,620000,省,Gansu,Province
+CN,Gansu,JIC,ZLJC,Jinchang Jinchuan Airport,38.5422,102.348,金昌市,620300,金昌市,620300,地级市,甘肃省,620000,省,Gansu,Province
+CN,Gansu,LHW,ZLLL,Lanzhou Zhongchuan International Airport,36.5152,103.62,兰州市,620100,兰州市,620100,地级市,甘肃省,620000,省,Gansu,Province
+CN,Gansu,LNL,ZLLN,Longnan Chengzhou Airport,33.788,105.797,陇南市,621200,陇南市,621200,地级市,甘肃省,620000,省,Gansu,Province
+CN,Gansu,THQ,ZLTS,Tianshui Maijishan Airport,34.5594,105.86,天水市,620500,天水市,620500,地级市,甘肃省,620000,省,Gansu,Province
+CN,Gansu,YZY,ZLZY,Zhangye Ganzhou Airport,38.8019,100.675,张掖市,620700,张掖市,620700,地级市,甘肃省,620000,省,Gansu,Province
+CN,Guangdong,CAN,ZGGG,Guangzhou Baiyun International Airport,23.3924,113.299,广州市,440100,广州市,440100,地级市,广东省,440000,省,Guangdong,Province
+CN,Guangdong,FUO,ZGFS,Foshan Shadi Airport,23.0833,113.07,佛山市,440600,佛山市,440600,地级市,广东省,440000,省,Guangdong,Province
+CN,Guangdong,HSC,,Shaoguan Guitou Airport,24.9786,113.421,韶关市,440200,韶关市,440200,地级市,广东省,440000,省,Guangdong,Province
+CN,Guangdong,HUZ,ZGHZ,Huizhou Pingtan Airport,23.05,114.6,惠州市,441300,惠州市,441300,地级市,广东省,440000,省,Guangdong,Province
+CN,Guangdong,MXZ,ZGMX,Meixian Airport,24.35,116.133,梅州市,441400,梅州市,441400,地级市,广东省,440000,省,Guangdong,Province
+CN,Guangdong,SWA,ZGOW,Jieyang Chaoshan International Airport,23.552,116.503,揭阳市,445200,揭阳市,445200,地级市,广东省,440000,省,Guangdong,Province
+CN,Guangdong,SZX,ZGSZ,Shenzhen Bao'an International Airport,22.6393,113.811,深圳市,440300,深圳市,440300,地级市,广东省,440000,省,Guangdong,Province
+CN,Guangdong,ZHA,ZGZJ,Zhanjiang Airport,21.2144,110.358,湛江市,440800,湛江市,440800,地级市,广东省,440000,省,Guangdong,Province
+CN,Guangdong,ZUH,ZGSD,Zhuhai Jinwan Airport (Zhuhai Sanzao Airport),22.0064,113.376,珠海市,440400,珠海市,440400,地级市,广东省,440000,省,Guangdong,Province
+CN,Guangxi,AEB,ZGBS,Baise Bama Airport,23.7206,106.96,百色市,451000,百色市,451000,地级市,广西壮族自治区,450000,自治区,Guangxi,Autonomous Region
+CN,Guangxi,BHY,ZGBH,Beihai Fucheng Airport,21.5394,109.294,北海市,450500,北海市,450500,地级市,广西壮族自治区,450000,自治区,Guangxi,Autonomous Region
+CN,Guangxi,HCJ,ZGHC,Hechi Jinchengjiang Airport,24.805,107.7,河池市,451200,河池市,451200,地级市,广西壮族自治区,450000,自治区,Guangxi,Autonomous Region
+CN,Guangxi,KWL,ZGKL,Guilin Liangjiang International Airport,25.2181,110.039,桂林市,450300,桂林市,450300,地级市,广西壮族自治区,450000,自治区,Guangxi,Autonomous Region
+CN,Guangxi,LZH,ZGZH,Liuzhou Bailian Airport,24.2075,109.391,柳州市,450200,柳州市,450200,地级市,广西壮族自治区,450000,自治区,Guangxi,Autonomous Region
+CN,Guangxi,NNG,ZGNN,Nanning Wuxu International Airport,22.6083,108.172,南宁市,450100,南宁市,450100,地级市,广西壮族自治区,450000,自治区,Guangxi,Autonomous Region
+CN,Guangxi,WUZ,ZGWZ,Wuzhou Xijiang Airport,23.4567,111.248,梧州市,450400,梧州市,450400,地级市,广西壮族自治区,450000,自治区,Guangxi,Autonomous Region
+CN,Guizhou,ACX,ZUYI,Xingyi Wanfenglin Airport,25.0864,104.959,黔西南布依族苗族自治州,522300,黔西南布依族苗族自治州,522300,自治州,贵州省,520000,省,Guizhou,Province
+CN,Guizhou,AVA,ZUAS,Anshun Huangguoshu Airport,26.2606,105.873,安顺市,520400,安顺市,520400,地级市,贵州省,520000,省,Guizhou,Province
+CN,Guizhou,BFJ,ZUBJ,Bijie Feixiong Airport,27.2671,105.472,毕节市,520500,毕节市,520500,地级市,贵州省,520000,省,Guizhou,Province
+CN,Guizhou,HZH,ZUNP,Liping Airport,26.3222,109.15,黔东南苗族侗族自治州,522600,黔东南苗族侗族自治州,522600,自治州,贵州省,520000,省,Guizhou,Province
+CN,Guizhou,KJH,,Kaili Huangping Airport,26.972,107.988,黔东南苗族侗族自治州,522600,黔东南苗族侗族自治州,522600,自治州,贵州省,520000,省,Guizhou,Province
+CN,Guizhou,KWE,ZUGY,Guiyang Longdongbao International Airport,26.5385,106.801,贵阳市,520100,贵阳市,520100,地级市,贵州省,520000,省,Guizhou,Province
+CN,Guizhou,LLB,ZULB,Libo Airport (Qiannan Airport),25.4525,107.962,黔南布依族苗族自治州,522700,黔南布依族苗族自治州,522700,自治州,贵州省,520000,省,Guizhou,Province
+CN,Guizhou,LPF,ZUPS,Liupanshui Yuezhao Airport,26.6094,104.979,六盘水市,520200,六盘水市,520200,地级市,贵州省,520000,省,Guizhou,Province
+CN,Guizhou,TEN,ZUTR,Tongren Fenghuang Airport,27.8833,109.309,铜仁市,520600,铜仁市,520600,地级市,贵州省,520000,省,Guizhou,Province
+CN,Guizhou,WMT,ZUMT,Zunyi Maotai Airport,27.8164,106.333,遵义市,520300,遵义市,520300,地级市,贵州省,520000,省,Guizhou,Province
+CN,Guizhou,ZYI,ZUZY,Zunyi Xinzhou Airport,27.5895,107.001,遵义市,520300,遵义市,520300,地级市,贵州省,520000,省,Guizhou,Province
+CN,Hainan,BAR,,Qionghai Bo'ao Airport,19.1382,110.455,琼海市,469002,不统计,0,不统计,海南省,460000,省,Hainan,Province
+CN,Hainan,HAK,ZJHK,Haikou Meilan International Airport,19.9349,110.459,海口市,460100,海口市,460100,地级市,海南省,460000,省,Hainan,Province
+CN,Hainan,SYX,ZJSY,Sanya Phoenix International Airport,18.3029,109.412,三亚市,460200,三亚市,460200,地级市,海南省,460000,省,Hainan,Province
+CN,Hebei,BPE,ZBDH,Qinhuangdao Beidaihe Airport,39.6664,119.059,秦皇岛市,130300,秦皇岛市,130300,地级市,河北省,130000,省,Hebei,Province
+CN,Hebei,CDE,ZBCD,Chengde Puning Airport,41.1225,118.074,承德市,130800,承德市,130800,地级市,河北省,130000,省,Hebei,Province
+CN,Hebei,HDG,ZBHD,Handan Airport,36.5258,114.426,邯郸市,130400,邯郸市,130400,地级市,河北省,130000,省,Hebei,Province
+CN,Hebei,SJW,ZBSJ,Shijiazhuang Zhengding International Airport,38.2807,114.697,石家庄市,130100,石家庄市,130100,地级市,河北省,130000,省,Hebei,Province
+CN,Hebei,TVS,ZBTS,Tangshan Sannuhe Airport,39.7178,118.003,唐山市,130200,唐山市,130200,地级市,河北省,130000,省,Hebei,Province
+CN,Hebei,XNT,ZBXT,Xingtai Dalian Airport,36.8831,114.429,邢台市,130500,邢台市,130500,地级市,河北省,130000,省,Hebei,Province
+CN,Hebei,ZQZ,ZBZJ,Zhangjiakou Ningyuan Airport,40.7386,114.93,张家口市,130700,张家口市,130700,地级市,河北省,130000,省,Hebei,Province
+CN,Heilongjiang,DQA,ZYDQ,Daqing Sartu Airport,46.7464,125.141,大庆市,230600,大庆市,230600,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,DTU,,Wudalianchi Airport,48.445,126.133,黑河市,231100,黑河市,231100,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,FYJ,ZYFY,Fuyuan Dongji Airport,48.1995,134.366,佳木斯市,230800,佳木斯市,230800,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,HEK,ZYHE,Heihe Airport,50.1716,127.309,黑河市,231100,黑河市,231100,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,HRB,ZYHB,Harbin Taiping International Airport,45.6234,126.25,哈尔滨市,230100,哈尔滨市,230100,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,JGD,ZYJD,Jiagedaqi Airport,50.3714,124.118,呼伦贝尔市,150700,呼伦贝尔市,150700,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Heilongjiang,JMU,ZYJM,Jiamusi Dongjiao Airport,46.8434,130.465,佳木斯市,230800,佳木斯市,230800,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,JSJ,ZYJS,Jiansanjiang Airport,47.11,132.66,佳木斯市,230800,佳木斯市,230800,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,JXA,ZYJX,Jixi Xingkaihu Airport,45.293,131.193,鸡西市,230300,鸡西市,230300,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,LDS,ZYLD,Yichun Lindu Airport,47.7521,129.019,伊春市,230700,伊春市,230700,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,MDG,ZYMD,Mudanjiang Hailang Airport,44.5241,129.569,牡丹江市,231000,牡丹江市,231000,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,NDG,ZYQQ,Qiqihar Sanjiazi Airport,47.2396,123.918,齐齐哈尔市,230200,齐齐哈尔市,230200,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,OHE,ZYMH,Mohe Gulian Airport,52.9128,122.43,大兴安岭地区,232700,大兴安岭地区,232700,地区,黑龙江省,230000,省,Heilongjiang,Province
+CN,Heilongjiang,YLN,ZYYL,Yilan Airport,46.317,129.567,哈尔滨市,230100,哈尔滨市,230100,地级市,黑龙江省,230000,省,Heilongjiang,Province
+CN,Henan,AYN,ZHAY,Anyang Airport,36.1339,114.344,安阳市,410500,安阳市,410500,地级市,河南省,410000,省,Henan,Province
+CN,Henan,CGO,ZHCC,Zhengzhou Xinzheng International Airport,34.5197,113.841,郑州市,410100,郑州市,410100,地级市,河南省,410000,省,Henan,Province
+CN,Henan,HSJ,,Zhengzhou Shangjie Airport,34.8422,113.274,郑州市,410100,郑州市,410100,地级市,河南省,410000,省,Henan,Province
+CN,Henan,LYA,ZHLY,Luoyang Beijiao Airport,34.7411,112.388,洛阳市,410300,洛阳市,410300,地级市,河南省,410000,省,Henan,Province
+CN,Henan,NNY,ZHNY,Nanyang Jiangying Airport,32.9808,112.615,南阳市,411300,南阳市,411300,地级市,河南省,410000,省,Henan,Province
+CN,Henan,XAI,ZHXY,Xinyang Minggang Airport,32.5414,114.078,驻马店市,411700,驻马店市,411700,地级市,河南省,410000,省,Henan,Province
+CN,Hubei,ENH,ZHES,Enshi Xujiaping Airport,30.3203,109.485,恩施土家族苗族自治州,422800,恩施土家族苗族自治州,422800,自治州,湖北省,420000,省,Hubei,Province
+CN,Hubei,HPG,ZHSN,Shennongjia Hongping Airport,31.626,110.34,神农架林区,429021,不统计,0,不统计,湖北省,420000,省,Hubei,Province
+CN,Hubei,LHK,ZHGH,Laohekou Airport,32.3894,111.695,襄阳市,420600,襄阳市,420600,地级市,湖北省,420000,省,Hubei,Province
+CN,Hubei,SHS,ZHSS,Shashi Airport,30.3243,112.28,荆州市,421000,荆州市,421000,地级市,湖北省,420000,省,Hubei,Province
+CN,Hubei,WDS,ZHSY,Shiyan Wudangshan Airport,32.5917,110.908,十堰市,420300,十堰市,420300,地级市,湖北省,420000,省,Hubei,Province
+CN,Hubei,WUH,ZHHH,Wuhan Tianhe International Airport,30.7838,114.208,武汉市,420100,武汉市,420100,地级市,湖北省,420000,省,Hubei,Province
+CN,Hubei,XFN,ZHXF,Xiangyang Liuji Airport,32.1506,112.291,襄阳市,420600,襄阳市,420600,地级市,湖北省,420000,省,Hubei,Province
+CN,Hubei,YIH,ZHYC,Yichang Sanxia Airport,30.5565,111.48,宜昌市,420500,宜昌市,420500,地级市,湖北省,420000,省,Hubei,Province
+CN,Hubei,EHU,ZHEC,Ezhou Huahu Airport,30.3429,115.03,鄂州市,420700,鄂州市,420700,地级市,湖北省,420000,省,Hubei,Province
+CN,Hunan,CGD,ZGCD,Changde Taohuayuan Airport,28.9189,111.64,常德市,430700,常德市,430700,地级市,湖南省,430000,省,Hunan,Province
+CN,Hunan,CSX,ZGHA,Changsha Huanghua International Airport,28.1892,113.22,长沙市,430100,长沙市,430100,地级市,湖南省,430000,省,Hunan,Province
+CN,Hunan,DYG,ZGDY,Zhangjiajie Hehua Airport,29.1028,110.443,张家界市,430800,张家界市,430800,地级市,湖南省,430000,省,Hunan,Province
+CN,Hunan,HJJ,ZGCJ,Huaihua Zhijiang Airport,27.4411,109.7,怀化市,431200,怀化市,431200,地级市,湖南省,430000,省,Hunan,Province
+CN,Hunan,HNY,ZGHY,Hengyang Nanyue Airport,26.9053,112.628,衡阳市,430400,衡阳市,430400,地级市,湖南省,430000,省,Hunan,Province
+CN,Hunan,LLF,ZGLG,Yongzhou Lingling Airport,26.3387,111.61,永州市,431100,永州市,431100,地级市,湖南省,430000,省,Hunan,Province
+CN,Hunan,WGN,ZGSY,Shaoyang Wugang Airport,26.802,110.642,邵阳市,430500,邵阳市,430500,地级市,湖南省,430000,省,Hunan,Province
+CN,Hunan,HCZ,ZGCZ,Chenzhou Beihu Airport,25.7506,112.846,郴州市,431000,郴州市,431000,地级市,湖南省,430000,省,Hunan,Province
+CN,Hunan,YYA,ZGYY,Yueyang Sanhe Airport,29.314,113.278,岳阳市,430600,岳阳市,430600,地级市,湖南省,430000,省,Hunan,Province
+CN,Jiangsu,CZX,ZSCG,Changzhou Benniu Airport,31.9197,119.779,常州市,320400,常州市,320400,地级市,江苏省,320000,省,Jiangsu,Province
+CN,Jiangsu,HIA,ZSSH,Huai'an Lianshui Airport,33.7908,119.125,淮安市,320800,淮安市,320800,地级市,江苏省,320000,省,Jiangsu,Province
+CN,Jiangsu,LYG,ZSLG,Lianyungang Baitabu Airport,34.5717,118.874,连云港市,320700,连云港市,320700,地级市,江苏省,320000,省,Jiangsu,Province
+CN,Jiangsu,NKG,ZSNJ,Nanjing Lukou International Airport,31.742,118.862,南京市,320100,南京市,320100,地级市,江苏省,320000,省,Jiangsu,Province
+CN,Jiangsu,NTG,ZSNT,Nantong Xingdong Airport,32.0708,120.976,南通市,320600,南通市,320600,地级市,江苏省,320000,省,Jiangsu,Province
+CN,Jiangsu,SZV,ZSSZ,Suzhou Guangfu Airport,31.2631,120.401,苏州市,320500,苏州市,320500,地级市,江苏省,320000,省,Jiangsu,Province
+CN,Jiangsu,WUX,ZSWX,Sunan Shuofang International Airport,31.4944,120.429,无锡市,320200,无锡市,320200,地级市,江苏省,320000,省,Jiangsu,Province
+CN,Jiangsu,XUZ,ZSXZ,Xuzhou Guanyin Airport,34.0591,117.555,徐州市,320300,徐州市,320300,地级市,江苏省,320000,省,Jiangsu,Province
+CN,Jiangsu,YNZ,ZSYN,Yancheng Nanyang International Airport,33.4258,120.203,盐城市,320900,盐城市,320900,地级市,江苏省,320000,省,Jiangsu,Province
+CN,Jiangsu,YTY,ZSYA,Yangzhou Taizhou Airport,32.5602,119.717,扬州市,321000,扬州市,321000,地级市,江苏省,320000,省,Jiangsu,Province
+CN,Jiangxi,JDZ,ZSJD,Jingdezhen Luojia Airport,29.3386,117.176,景德镇市,360200,景德镇市,360200,地级市,江西省,360000,省,Jiangxi,Province
+CN,Jiangxi,JGS,ZSJA,Jinggangshan Airport,26.8569,114.737,吉安市,360800,吉安市,360800,地级市,江西省,360000,省,Jiangxi,Province
+CN,Jiangxi,JIU,ZSJJ,Jiujiang Lushan Airport,29.4769,115.801,九江市,360400,九江市,360400,地级市,江西省,360000,省,Jiangxi,Province
+CN,Jiangxi,KHN,ZSCN,Nanchang Changbei International Airport,28.865,115.9,南昌市,360100,南昌市,360100,地级市,江西省,360000,省,Jiangxi,Province
+CN,Jiangxi,KOW,ZSGZ,Ganzhou Huangjin Airport,25.8533,114.779,赣州市,360700,赣州市,360700,地级市,江西省,360000,省,Jiangxi,Province
+CN,Jiangxi,SQD,ZSSR,Shangrao Sanqingshan Airport,28.3797,117.964,上饶市,361100,上饶市,361100,地级市,江西省,360000,省,Jiangxi,Province
+CN,Jiangxi,YIC,ZSYC,Yichun Mingyueshan Airport,27.8025,114.306,宜春市,360900,宜春市,360900,地级市,江西省,360000,省,Jiangxi,Province
+CN,Jilin,CGQ,ZYCC,Changchun Longjia International Airport,43.9962,125.685,长春市,220100,长春市,220100,地级市,吉林省,220000,省,Jilin,Province
+CN,Jilin,DBC,ZYBA,Baicheng Chang'an Airport,45.5053,123.02,白城市,220800,白城市,220800,地级市,吉林省,220000,省,Jilin,Province
+CN,Jilin,JIL,ZYJL,Jilin Ertaizi Airport,44.0022,126.396,吉林市,220200,吉林市,220200,地级市,吉林省,220000,省,Jilin,Province
+CN,Jilin,NBS,ZYBS,Changbaishan Airport,42.0669,127.602,白山市,220600,白山市,220600,地级市,吉林省,220000,省,Jilin,Province
+CN,Jilin,TNH,ZYTN,Tonghua Sanyuanpu Airport,42.2539,125.703,通化市,220500,通化市,220500,地级市,吉林省,220000,省,Jilin,Province
+CN,Jilin,YNJ,ZYYJ,Yanji Chaoyangchuan Airport,42.8828,129.451,延边朝鲜族自治州,222400,延边朝鲜族自治州,222400,自治州,吉林省,220000,省,Jilin,Province
+CN,Jilin,YSQ,ZYSQ,Songyuan Chaganhu Airport,44.9381,124.55,松原市,220700,松原市,220700,地级市,吉林省,220000,省,Jilin,Province
+CN,Liaoning,AOG,ZYAS,Anshan Teng'ao Airport,41.1053,122.854,鞍山市,210300,鞍山市,210300,地级市,辽宁省,210000,省,Liaoning,Province
+CN,Liaoning,CHG,ZYCY,Chaoyang Airport,41.5381,120.435,朝阳市,211300,朝阳市,211300,地级市,辽宁省,210000,省,Liaoning,Province
+CN,Liaoning,CNI,ZYCH,Changhai Airport,39.2667,122.667,大连市,210200,大连市,210200,地级市,辽宁省,210000,省,Liaoning,Province
+CN,Liaoning,DDG,ZYDD,Dandong Langtou Airport,40.0247,124.286,丹东市,210600,丹东市,210600,地级市,辽宁省,210000,省,Liaoning,Province
+CN,Liaoning,DLC,ZYTL,Dalian Zhoushuizi International Airport,38.9657,121.539,大连市,210200,大连市,210200,地级市,辽宁省,210000,省,Liaoning,Province
+CN,Liaoning,JNZ,ZYJZ,Jinzhou Bay Airport,41.1014,121.062,锦州市,210700,锦州市,210700,地级市,辽宁省,210000,省,Liaoning,Province
+CN,Liaoning,SHE,ZYTX,Shenyang Taoxian International Airport,41.6398,123.483,沈阳市,210100,沈阳市,210100,地级市,辽宁省,210000,省,Liaoning,Province
+CN,Liaoning,XEN,ZYXC,Xingcheng Airport,40.5803,120.698,葫芦岛市,211400,葫芦岛市,211400,地级市,辽宁省,210000,省,Liaoning,Province
+CN,Liaoning,YKH,ZYYK,Yingkou Lanqi Airport,40.5425,122.359,营口市,210800,营口市,210800,地级市,辽宁省,210000,省,Liaoning,Province
+CN,Nei Mongol,AEQ,,Ar Horqin Airport,43.8704,120.16,赤峰市,150400,赤峰市,150400,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,AXF,,Alxa Left Banner Bayanhot Airport,38.7483,105.589,阿拉善盟,152900,阿拉善盟,152900,盟,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,BAV,ZBOW,Baotou Airport,40.56,109.997,包头市,150200,包头市,150200,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,CIF,ZBCF,Chifeng Yulong Airport,42.235,118.908,赤峰市,150400,赤峰市,150400,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,DSN,ZBDS,Ordos Ejin Horo Airport,39.49,109.861,鄂尔多斯市,150600,鄂尔多斯市,150600,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,EJN,,Ejin Banner Taolai Airport,42.0155,101.001,阿拉善盟,152900,阿拉善盟,152900,盟,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,ERL,ZBER,Erenhot Saiwusu International Airport,43.4225,112.097,锡林郭勒盟,152500,锡林郭勒盟,152500,盟,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,HET,ZBHH,Hohhot Baita International Airport,40.8514,111.824,呼和浩特市,150100,呼和浩特市,150100,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,HLD,ZBLA,Hulunbuir Hailar Airport,49.205,119.825,呼伦贝尔市,150700,呼伦贝尔市,150700,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,HLH,ZBUL,Ulanhot Airport,46.1953,122.008,兴安盟,152200,兴安盟,152200,盟,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,HUO,ZBHZ,Holingol Huolinhe Airport,45.4872,119.407,通辽市,150500,通辽市,150500,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,NZH,ZBMZ,Manzhouli Xijiao Airport,49.5667,117.33,呼伦贝尔市,150700,呼伦贝尔市,150700,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,NZL,,Zhalantun Chengjisihan Airport,47.8658,122.768,呼伦贝尔市,150700,呼伦贝尔市,150700,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,RHT,,Alxa Right Banner Badanjilin Airport,39.225,101.546,阿拉善盟,152900,阿拉善盟,152900,盟,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,RLK,ZBYZ,Bayannur Tianjitai Airport,40.926,107.743,巴彦淖尔市,150800,巴彦淖尔市,150800,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,TGO,ZBTL,Tongliao Airport,43.5567,122.2,通辽市,150500,通辽市,150500,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,UCB,,Ulanqab Airport,41.1297,113.108,乌兰察布市,150900,乌兰察布市,150900,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,WUA,ZBUH,Wuhai Airport,39.7934,106.799,乌海市,150300,乌海市,150300,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,WZQ,,Urad Middle Banner Airport,41.4596,108.535,巴彦淖尔市,150800,巴彦淖尔市,150800,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,XIL,ZBXH,Xilinhot Airport,43.9156,115.964,锡林郭勒盟,152500,锡林郭勒盟,152500,盟,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Nei Mongol,YIE,ZBES,Arxan Yi'ershi Airport,47.3106,119.912,兴安盟,152200,兴安盟,152200,盟,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Ningxia,GYU,ZLGY,Guyuan Liupanshan Airport,36.0789,106.217,固原市,640400,固原市,640400,地级市,宁夏回族自治区,640000,自治区,Ningxia,Autonomous Region
+CN,Ningxia,INC,ZLIC,Yinchuan Hedong International Airport,38.3228,106.393,银川市,640100,银川市,640100,地级市,宁夏回族自治区,640000,自治区,Ningxia,Autonomous Region
+CN,Ningxia,ZHY,ZLZW,Zhongwei Shapotou Airport (Zhongwei Xiangshan Airport),37.5731,105.154,中卫市,640500,中卫市,640500,地级市,宁夏回族自治区,640000,自治区,Ningxia,Autonomous Region
+CN,Qinghai,GMQ,ZLGL,Golog Maqin Airport,34.4181,100.301,果洛藏族自治州,632600,果洛藏族自治州,632600,自治州,青海省,630000,省,Qinghai,Province
+CN,Qinghai,GOQ,ZLGM,Golmud Airport,36.4006,94.7861,海西蒙古族藏族自治州,632800,海西蒙古族藏族自治州,632800,自治州,青海省,630000,省,Qinghai,Province
+CN,Qinghai,HTT,,Huatugou Airport,38.202,90.8415,海西蒙古族藏族自治州,632800,海西蒙古族藏族自治州,632800,自治州,青海省,630000,省,Qinghai,Province
+CN,Qinghai,HXD,ZLDL,Delingha Airport,37.1253,97.2687,海西蒙古族藏族自治州,632800,海西蒙古族藏族自治州,632800,自治州,青海省,630000,省,Qinghai,Province
+CN,Qinghai,XNN,ZLXN,Xining Caojiabao Airport,36.5275,102.043,海东市,630200,海东市,630200,地级市,青海省,630000,省,Qinghai,Province
+CN,Qinghai,YUS,ZLYS,Yushu Batang Airport,32.8364,97.0364,玉树藏族自治州,632700,玉树藏族自治州,632700,自治州,青海省,630000,省,Qinghai,Province
+CN,Qinghai,HBQ,ZLHB,Haibei Qilian Airport,38.012,100.644,海北藏族自治州,632200,海北藏族自治州,632200,自治州,青海省,630000,省,Qinghai,Province
+CN,Shaanxi,AKA,ZLAK,Ankang Wulipu Airport,32.7081,108.931,安康市,610900,安康市,610900,地级市,陕西省,610000,省,Shaanxi,Province
+CN,Shaanxi,CIH,ZBCZ,Changzhi Wangcun Airport,36.2475,113.126,长治市,140400,长治市,140400,地级市,山西省,140000,省,Shanxi,Province
+CN,Shaanxi,DAT,ZBDT,Datong Yungang Airport,40.0603,113.482,大同市,140200,大同市,140200,地级市,山西省,140000,省,Shanxi,Province
+CN,Shaanxi,ENY,ZLYA,Yan'an Ershilipu Airport,36.6369,109.554,延安市,610600,延安市,610600,地级市,陕西省,610000,省,Shaanxi,Province
+CN,Shaanxi,HZG,ZLHZ,Hanzhong Chenggu Airport,33.1341,107.206,汉中市,610700,汉中市,610700,地级市,陕西省,610000,省,Shaanxi,Province
+CN,Shaanxi,LFQ,,Linfen Qiaoli Airport,36.1326,111.641,临汾市,141000,临汾市,141000,地级市,山西省,140000,省,Shanxi,Province
+CN,Shaanxi,LLV,ZBLL,Luliang Airport,37.6833,111.143,吕梁市,141100,吕梁市,141100,地级市,山西省,140000,省,Shanxi,Province
+CN,Shaanxi,SIA,ZLSN,Xi'an Xiguan Airport,34.3767,109.12,西安市,610100,西安市,610100,地级市,陕西省,610000,省,Shaanxi,Province
+CN,Shaanxi,TYN,ZBYN,Taiyuan Wusu International Airport,37.7469,112.628,太原市,140100,太原市,140100,地级市,山西省,140000,省,Shanxi,Province
+CN,Shaanxi,UYN,ZLYL,Yulin Yuyang Airport,38.3597,109.591,榆林市,610800,榆林市,610800,地级市,陕西省,610000,省,Shaanxi,Province
+CN,Shaanxi,WUT,ZBXZ,Xinzhou Wutaishan Airport,38.5975,112.969,忻州市,140900,忻州市,140900,地级市,山西省,140000,省,Shanxi,Province
+CN,Shaanxi,XIY,ZLXY,Xi'an Xianyang International Airport,34.4471,108.752,咸阳市,610400,咸阳市,610400,地级市,陕西省,610000,省,Shaanxi,Province
+CN,Shandong,DOY,ZSDY,Dongying Shengli Airport,37.5086,118.788,东营市,370500,东营市,370500,地级市,山东省,370000,省,Shandong,Province
+CN,Shandong,JNG,ZLJN,Jining Qufu Airport,35.2928,116.347,济宁市,370800,济宁市,370800,地级市,山东省,370000,省,Shandong,Province
+CN,Shandong,LYI,ZSLY,Linyi Shubuling Airport,35.0461,118.412,临沂市,371300,临沂市,371300,地级市,山东省,370000,省,Shandong,Province
+CN,Shandong,PNJ,,Penglai Shahekou Airport,42.4464,119.574,赤峰市,150400,赤峰市,150400,地级市,内蒙古自治区,150000,自治区,Neimenggu,Autonomous Region
+CN,Shandong,RIZ,,Rizhao Shanzihe Airport,35.405,119.324,日照市,371100,日照市,371100,地级市,山东省,370000,省,Shandong,Province
+CN,Shandong,TAO,ZSQD,Qingdao Liuting International Airport,36.2661,120.374,青岛市,370200,青岛市,370200,地级市,山东省,370000,省,Shandong,Province
+CN,Shandong,TNA,ZSJN,Jinan Yaoqiang International Airport,36.8572,117.216,济南市,370100,济南市,370100,地级市,山东省,370000,省,Shandong,Province
+CN,Shandong,WEF,ZSWF,Weifang Airport,36.6467,119.119,潍坊市,370700,潍坊市,370700,地级市,山东省,370000,省,Shandong,Province
+CN,Shandong,WEH,ZSWH,Weihai Dashuibo Airport,37.1871,122.229,威海市,371000,威海市,371000,地级市,山东省,370000,省,Shandong,Province
+CN,Shandong,YNT,ZSYT,Yantai Penglai International Airport,37.6572,120.987,烟台市,370600,烟台市,370600,地级市,山东省,370000,省,Shandong,Province
+CN,Shandong,HZA,ZSHZ,Heze Mudan Airport,35.2133,115.737,菏泽市,371700,菏泽市,371700,地级市,山东省,370000,省,Shandong,Province
+CN,Shanghai,PVG,ZSPD,Shanghai Pudong International Airport,31.1434,121.805,上海市,310000,不统计,0,不统计,上海市,310000,直辖市,Shanghai,Municipality
+CN,Shanghai,SHA,ZSSS,Shanghai Hongqiao International Airport,31.1979,121.336,上海市,310000,不统计,0,不统计,上海市,310000,直辖市,Shanghai,Municipality
+CN,Shanxi,YCU,ZBYC,Yuncheng Guangong Airport,35.1164,111.031,运城市,140800,运城市,140800,地级市,山西省,140000,省,Shanxi,Province
+CN,Sichuan,AHJ,ZUHY,Hongyuan Airport,32.5315,102.352,阿坝藏族羌族自治州,513200,阿坝藏族羌族自治州,513200,自治州,四川省,510000,省,Sichuan,Province
+CN,Sichuan,BZX,,Bazhong Enyang Airport,31.7384,106.645,巴中市,511900,巴中市,511900,地级市,四川省,510000,省,Sichuan,Province
+CN,Sichuan,CTU,ZUUU,Chengdu Shuangliu International Airport,30.5785,103.947,成都市,510100,成都市,510100,地级市,四川省,510000,省,Sichuan,Province
+CN,Sichuan,DAX,ZUDX,Dazhou Heshi Airport,31.1302,107.429,达州市,511700,达州市,511700,地级市,四川省,510000,省,Sichuan,Province
+CN,Sichuan,DCY,ZUDC,Daocheng Yading Airport,29.3231,100.053,甘孜藏族自治州,513300,甘孜藏族自治州,513300,自治州,四川省,510000,省,Sichuan,Province
+CN,Sichuan,GHN,ZUGH,Guanghan Airport,30.9485,104.33,德阳市,510600,德阳市,510600,地级市,四川省,510000,省,Sichuan,Province
+CN,Sichuan,GYS,ZUGU,Guangyuan Panlong Airport,32.3911,105.702,广元市,510800,广元市,510800,地级市,四川省,510000,省,Sichuan,Province
+CN,Sichuan,JZH,ZUJZ,Jiuzhai Huanglong Airport,32.8533,103.682,阿坝藏族羌族自治州,513200,阿坝藏族羌族自治州,513200,自治州,四川省,510000,省,Sichuan,Province
+CN,Sichuan,KGT,ZUKD,Kangding Airport,30.1575,101.735,甘孜藏族自治州,513300,甘孜藏族自治州,513300,自治州,四川省,510000,省,Sichuan,Province
+CN,Sichuan,LZO,ZULZ,Luzhou Yunlong Airport,29.03,105.47,泸州市,510500,泸州市,510500,地级市,四川省,510000,省,Sichuan,Province
+CN,Sichuan,MIG,ZUMY,Mianyang Nanjiao Airport,31.4281,104.741,绵阳市,510700,绵阳市,510700,地级市,四川省,510000,省,Sichuan,Province
+CN,Sichuan,NAO,ZUNC,Nanchong Gaoping Airport,30.7955,106.163,南充市,511300,南充市,511300,地级市,四川省,510000,省,Sichuan,Province
+CN,Sichuan,PZI,ZUZH,Panzhihua Bao'anying Airport,26.54,101.799,攀枝花市,510400,攀枝花市,510400,地级市,四川省,510000,省,Sichuan,Province
+CN,Sichuan,TFU,ZUTF,Chengdu Tianfu International Airport,30.319,104.445,成都市,510100,成都市,510100,地级市,四川省,510000,省,Sichuan,Province
+CN,Sichuan,XIC,ZUXC,Xichang Qingshan Airport,27.9891,102.184,凉山彝族自治州,513400,凉山彝族自治州,513400,自治州,四川省,510000,省,Sichuan,Province
+CN,Sichuan,YBP,ZUYB,Yibin Caiba Airport,28.8006,104.545,宜宾市,511500,宜宾市,511500,地级市,四川省,510000,省,Sichuan,Province
+CN,Sichuan,DZH,ZUDA,Dazhou Jinya Airport,31.04,107.44,达州市,511700,达州市,511700,地级市,四川省,510000,省,Sichuan,Province
+CN,Tianjin,TSN,ZBTJ,Tianjin Binhai International Airport,39.1244,117.346,天津市,120000,不统计,0,不统计,天津市,120000,直辖市,Tianjin,Municipality
+CN,Xinjiang,AAT,ZWAT,Altay Airport,47.7499,88.0858,阿勒泰地区,654300,阿勒泰地区,654300,地区,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,AKU,ZWAK,Aksu Airport,41.2625,80.2917,阿克苏地区,652900,阿克苏地区,652900,地区,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,BPL,ZWBL,Bole Alashankou Airport,44.895,82.3,博尔塔拉蒙古自治州,652700,博尔塔拉蒙古自治州,652700,自治州,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,FYN,ZWFY,Fuyun Koktokay Airport,46.8042,89.512,阿勒泰地区,654300,阿勒泰地区,654300,地区,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,HMI,ZWHM,Hami Airport (Kumul Airport),42.8414,93.6692,哈密市,650500,哈密市,650500,地级市,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,HTN,ZWTN,Hotan Airport,37.0385,79.8649,和田地区,653200,和田地区,653200,地区,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,IQM,ZWCM,Qiemo Airport,38.2336,85.4656,巴音郭楞蒙古自治州,652800,巴音郭楞蒙古自治州,652800,自治州,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,KCA,ZWKC,Kuqa Qiuci Airport,41.6779,82.8729,阿克苏地区,652900,阿克苏地区,652900,地区,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,KHG,ZWSH,Kashgar Airport (Kashi Airport),39.5429,76.02,喀什地区,653100,喀什地区,653100,地区,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,KJI,ZWKN,Kanas Airport,48.2223,86.9959,阿勒泰地区,654300,阿勒泰地区,654300,地区,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,KRL,ZWKL,Korla Airport,41.6978,86.1289,巴音郭楞蒙古自治州,652800,巴音郭楞蒙古自治州,652800,自治州,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,KRY,ZWKM,Karamay Airport,45.4665,84.9527,克拉玛依市,650200,克拉玛依市,650200,地级市,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,NLT,ZWNL,Xinyuan Nalati Airport,43.4318,83.3786,伊犁哈萨克自治州,654000,伊犁哈萨克自治州,654000,自治州,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,QSZ,,Shache Airport,38.2811,77.0752,喀什地区,653100,喀什地区,653100,地区,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,RQA,ZWRQ,Ruoqiang Loulan Airport,38.9747,88.0083,巴音郭楞蒙古自治州,652800,巴音郭楞蒙古自治州,652800,自治州,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,SHF,ZWHZ,Shihezi Huayuan Airport,44.2421,85.8905,塔城地区,654200,塔城地区,654200,地区,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,SXJ,ZWSS,Shanshan Airport,42.9117,90.2475,吐鲁番市,650400,吐鲁番市,650400,地级市,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,TCG,ZWTC,Tacheng Airport,46.6725,83.3408,塔城地区,654200,塔城地区,654200,地区,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,TLQ,ZWTL,Turpan Jiaohe Airport,43.0308,89.0987,吐鲁番市,650400,吐鲁番市,650400,地级市,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,URC,ZWWW,Urumqi Diwopu International Airport,43.9071,87.4742,乌鲁木齐市,650100,乌鲁木齐市,650100,地级市,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xinjiang,YIN,ZWYN,Yining Airport,43.9558,81.3303,伊犁哈萨克自治州,654000,伊犁哈萨克自治州,654000,自治州,新疆维吾尔自治区,650000,自治区,Xinjiang,Autonomous Region
+CN,Xizang,BPX,ZUBD,Qamdo Bamda Airport,30.5536,97.1083,昌都市,540300,昌都市,540300,地级市,西藏自治区,540000,自治区,Xizang,Autonomous Region
+CN,Xizang,LXA,ZULS,Lhasa Gonggar Airport,29.2978,90.9119,山南市,540500,山南市,540500,地级市,西藏自治区,540000,自治区,Xizang,Autonomous Region
+CN,Xizang,LZY,ZUNZ,Nyingchi Mainling Airport,29.3033,94.3353,林芝市,540400,林芝市,540400,地级市,西藏自治区,540000,自治区,Xizang,Autonomous Region
+CN,Xizang,NGQ,ZUAL,Ngari Gunsa Airport,32.1,80.0531,阿里地区,542500,阿里地区,542500,地区,西藏自治区,540000,自治区,Xizang,Autonomous Region
+CN,Xizang,RKZ,ZURK,Shigatse Peace Airport,29.3519,89.3114,日喀则市,540200,日喀则市,540200,地级市,西藏自治区,540000,自治区,Xizang,Autonomous Region
+CN,Yunnan,BSD,ZPBS,Baoshan Yunduan Airport,25.0533,99.1683,保山市,530500,保山市,530500,地级市,云南省,530000,省,Yunnan,Province
+CN,Yunnan,CWJ,ZPCW,Cangyuan Washan Airport,23.2739,99.3736,临沧市,530900,临沧市,530900,地级市,云南省,530000,省,Yunnan,Province
+CN,Yunnan,DIG,ZPDQ,Diqing Shangri-La Airport,27.7936,99.6772,迪庆藏族自治州,533400,迪庆藏族自治州,533400,自治州,云南省,530000,省,Yunnan,Province
+CN,Yunnan,DLU,ZPDL,Dali Airport,25.6494,100.319,大理白族自治州,532900,大理白族自治州,532900,自治州,云南省,530000,省,Yunnan,Province
+CN,Yunnan,JHG,ZPJH,Xishuangbanna Gasa Airport,21.9739,100.76,西双版纳傣族自治州,532800,西双版纳傣族自治州,532800,自治州,云南省,530000,省,Yunnan,Province
+CN,Yunnan,JMJ,ZPJM,Lancang Jingmai Airport,22.4158,99.7864,普洱市,530800,普洱市,530800,地级市,云南省,530000,省,Yunnan,Province
+CN,Yunnan,KMG,ZPPP,Kunming Changshui International Airport,25.1019,102.929,昆明市,530100,昆明市,530100,地级市,云南省,530000,省,Yunnan,Province
+CN,Yunnan,LJG,ZPLJ,Lijiang Sanyi Airport,26.68,100.246,丽江市,530700,丽江市,530700,地级市,云南省,530000,省,Yunnan,Province
+CN,Yunnan,LNJ,ZPLC,Lincang Airport,23.7381,100.025,临沧市,530900,临沧市,530900,地级市,云南省,530000,省,Yunnan,Province
+CN,Yunnan,LUM,ZPMS,Dehong Mangshi Airport,24.4011,98.5317,德宏傣族景颇族自治州,533100,德宏傣族景颇族自治州,533100,自治州,云南省,530000,省,Yunnan,Province
+CN,Yunnan,NLH,,Ninglang Luguhu Airport,27.5403,100.759,丽江市,530700,丽江市,530700,地级市,云南省,530000,省,Yunnan,Province
+CN,Yunnan,SYM,ZPSM,Pu'er Simao Airport,22.7933,100.959,普洱市,530800,普洱市,530800,地级市,云南省,530000,省,Yunnan,Province
+CN,Yunnan,TCZ,ZUTC,Tengchong Tuofeng Airport,24.9381,98.4858,保山市,530500,保山市,530500,地级市,云南省,530000,省,Yunnan,Province
+CN,Yunnan,WNH,ZPWS,Wenshan Puzhehei Airport,23.5583,104.326,文山壮族苗族自治州,532600,文山壮族苗族自治州,532600,自治州,云南省,530000,省,Yunnan,Province
+CN,Yunnan,ZAT,ZPZT,Zhaotong Airport,27.3256,103.755,昭通市,530600,昭通市,530600,地级市,云南省,530000,省,Yunnan,Province
+CN,Zhejiang,HGH,ZSHC,Hangzhou Xiaoshan International Airport,30.2295,120.434,杭州市,330100,杭州市,330100,地级市,浙江省,330000,省,Zhejiang,Province
+CN,Zhejiang,HSN,ZSZS,Zhoushan Putuoshan Airport,29.9342,122.362,舟山市,330900,舟山市,330900,地级市,浙江省,330000,省,Zhejiang,Province
+CN,Zhejiang,HYN,ZSLQ,Taizhou Luqiao Airport,28.5622,121.429,台州市,331000,台州市,331000,地级市,浙江省,330000,省,Zhejiang,Province
+CN,Zhejiang,JUZ,ZSJU,Quzhou Airport,28.9658,118.899,衢州市,330800,衢州市,330800,地级市,浙江省,330000,省,Zhejiang,Province
+CN,Zhejiang,NGB,ZSNB,Ningbo Lishe International Airport,29.8267,121.462,宁波市,330200,宁波市,330200,地级市,浙江省,330000,省,Zhejiang,Province
+CN,Zhejiang,WNZ,ZSWZ,Wenzhou Longwan International Airport,27.9122,120.852,温州市,330300,温州市,330300,地级市,浙江省,330000,省,Zhejiang,Province
+CN,Zhejiang,YIW,ZSYW,Yiwu Airport,29.3447,120.032,金华市,330700,金华市,330700,地级市,浙江省,330000,省,Zhejiang,Province
